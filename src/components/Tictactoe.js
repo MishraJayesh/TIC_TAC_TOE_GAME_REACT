@@ -51,7 +51,7 @@ const Tictactoe = () => {
             return false;
         }
     }
-    
+
     //Function For Win Macth
     const checkWin = (board) => {
         const conditions = [
